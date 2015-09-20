@@ -1,6 +1,6 @@
 # Readme #
 
-This is the program written for quora answer - https://www.quora.com/What-is-simplest-way-to-print-the-following-pattern-in-java-see-the-details
+This is the program written for quora answer - https://www.quora.com/What-is-simplest-way-to-print-the-following-pattern-in-java-see-the-detailsanswer/Harsh-Deep-4
 
 The class containing the code is called PascalTriangle.
 
