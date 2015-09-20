@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=int\ factorial(int)
+comment1.params=n\ r
+comment1.target=int\ combination(int,\ int)
+comment2.params=lines
+comment2.target=void\ printTriangle(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
